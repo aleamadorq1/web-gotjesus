@@ -1469,6 +1469,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
   margin-right: -0.25em;
 }
 
+.white{
+  color: #fff !important;
+}
+
 .lity-loader {
   z-index: 9991;
   color: #333;
